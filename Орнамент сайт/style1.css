@@ -1,0 +1,242 @@
+.warning {
+    border: 50px ridge darkred;
+    background-color:   ;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+.warning img {
+    width: 100%;
+    height: 800px;
+}
+.temi {
+    border: 10px solid darkred;
+    border-radius: 5%;
+}
+.part-1{
+    font-family: bad script;
+    font-weight :bold;
+    border: 10px solid darkred;
+    border-radius: 5%;
+}
+.part-2{
+    font-family: bad script;
+    font-weight :bold;
+    border: 10px solid darkred;
+    border-radius: 4%;
+
+}
+.part-3{
+    font-family: bad script;
+    font-weight :bold;
+    border: 10px solid darkred;
+    border-radius: 2%;
+
+}
+.zagalovak{
+    font-family: Times;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    color: Black;
+    font-size:30px;
+}
+.osnowa{
+    font-family: bad script;
+    font-weight: bold;
+    font-size: 20px;
+}
+.Tkachestvo{
+    font-size: 20px;
+}
+.interer{
+    font-size: 20px;
+
+}
+.interer-1{
+    font-size: 20px;
+
+}
+.interer-2{
+    font-size: 20px;
+}
+.interer-3{
+    font-size: 20px;
+}
+.interer-4{
+    font-size: 20px;
+}
+.interer-5{
+    font-size: 20px;
+}
+.interer-6{
+    font-size: 20px;
+}
+.interer-7{
+    font-size: 20px;
+}
+
+a:link{
+    color: mediumblue;
+}
+a:visited{
+    color:red;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(41, 73, 255) ;
+
+}
+a:active{
+    color: darkblue;
+}
+.pro-grodno{
+    font-size: 20px;
+}
+.pro-grodno-1{
+font-size: 20px;
+}
+.pro-grodno-2{
+    font-size: 20px;
+}
+.pro-grodno-3{
+        font-size: 20px;
+}
+.pro-grodno-4{
+    font-size: 20px;
+}
+.pro-grodno-5{
+    font-size: 20px;
+}
+.pro-grodno-6{
+    font-size: 20px;
+}
+.pro-grodno-7{
+    font-size: 20px;
+}
+.pro-grodno-7-1{
+    font-size: 20px;
+}
+.pro-grodno-8{
+    font-size: 20px;
+}
+.pro-grodno-9{
+    font-size: 20px;
+}
+.pro-grodno-10{
+    font-size: 20px;
+}
+.pro-grodno-11{
+    font-size: 20px;
+}
+.pro-grodno-12{
+    font-size: 20px;
+}
+.pokrivala{
+    font-size: 20px;
+}
+.nazvanie{
+    text-align: right;
+}
+img{
+    width: 300px;
+    height: 400px;
+}
+.pro-grodno-1-1{
+    font-size: 20px;
+}
+.part-4{
+    font-family: bad script;
+    font-weight :bold;
+    border: 10px solid darkred;
+    border-radius: 5%;
+}
+.narod-tkachestvo{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.tkachestvo{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.Tkachestvo:first-letter{
+  font-size: 130%;
+  color: red;
+}
+.interer:first-letter{
+  font-size: 130%;
+  color: red;
+}
+.pro-grodno:first-letter{
+  font-size: 130%;
+  color: red;
+}
+.geometr{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.pokrivala:first-letter{
+  font-size: 130%;
+  color: red;
+}
+.sredi{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.pro-jit{
+    font-size: 20px;
+}
+
+.simvol-zer{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.jiten{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.bogach{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.sporish{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.rai{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.kapl{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.polevik{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.mather-earth{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+img{
+  transition:1s;
+}
+img:hover{
+  transform: scale(1.2);
+}
